@@ -28,7 +28,7 @@ Built with 🧠 Google Gemini AI and ElevenLabs’ speech-to-text engine, this t
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/yourusername/voice-task-tracker.git
+   git clone https://github.com/saadnaveeddev/voice-meeting-assistant).git
    cd voice-task-tracker
    ```
 
